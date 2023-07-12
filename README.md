@@ -14,5 +14,5 @@ I got it from: https://proxyway.com/guides/best-websites-to-practice-your-web-sc
 ### 7. A library called __Click__ was used to make the __CLI__.
 
 # To run this code: 
-You just need to write that in the terminal: 
+You just need to write that in the terminal: \br 
 python scraper.py <url_link>  <the-csv-file-name.csv> 
