@@ -1,7 +1,7 @@
 # web_scraping
-Used requests and Beutifulsoup to scrap http://books.toscrape.com/index.html
-this website is commonly used to practice scraping it is an easy website to work with
-nothing crazy such as Javascript, login sessions ..etc 
+Used __Requests__ and __Beutifulsoup__ to scrap http://books.toscrape.com/index.html <br>
+this website is commonly used to practice scraping it is an easy website to work with <br>
+nothing crazy such as __Javascript__, login sessions ..etc  <br>
 I got it from: https://proxyway.com/guides/best-websites-to-practice-your-web-scraping-skills
 
 # Outline of what I did in this project:
